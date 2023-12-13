@@ -85,3 +85,8 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.carousel img {
+  width: 1000px;
+  height: 500px;
+}
