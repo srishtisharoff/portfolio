@@ -90,3 +90,12 @@
   width: 1000px;
   height: 500px;
 }
+img {
+  float: left; 
+  width: 180px;
+  margin-right: 10px;
+}
+
+p {
+  text-align: justify;
+}
